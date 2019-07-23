@@ -1,2 +1,2 @@
-# Assignment-1
-Excel Work 
+# Kick Starter Analysis
+Analysis of Kick Starter Projects in Excel  
